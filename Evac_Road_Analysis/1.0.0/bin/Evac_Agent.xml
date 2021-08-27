@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Simulation id="2" sourcePath="result/user_input.gaml" finalstep="500" experiment="NewAgent" seed="3">
+  <Parameters>
+  </Parameters>
+  <Outputs>
+      <Output id="1" name="video1" framerate="1" />
+      <Output id="2" name="video2" framerate="1" />
+      <Output id="3" name="video3" framerate="1" />
+      <Output id="3" name="video4" framerate="1" />
+  </Outputs>
+</Simulation>
